@@ -1,0 +1,27 @@
+@font-face {
+    font-family:"MuseoLight";
+    src: url("../fonts/Museo/MuseoLight/MuseoSansCyrl100.ttf");
+    url("/fonts/Museo/MuseoLight/MuseoSansCyrl100.woff") format("woff"),
+    url("/fonts/Museo/MuseoLight/MuseoSansCyrl100.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+
+
+}
+@font-face {
+    font-family:"MuseoBold";
+    src: url("../fonts/Museo/MuseoBold/MuseoSansCyrl500.ttf");
+url("/fonts/Museo/MuseoBold/MuseoSansCyrl500.woff") format("woff"),
+url("/fonts/Museo/MuseoBold/MuseoSansCyrl500.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+
+
+}
+@font-face {
+    font-family: "Blackadder ITC";
+    src: url("../fonts/Blackadder ITC/Blackadder ITC Regular/Blackadder ITC.ttf");
+}
+
+
+
